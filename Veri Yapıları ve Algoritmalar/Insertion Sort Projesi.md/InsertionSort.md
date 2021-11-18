@@ -25,7 +25,7 @@
 
 - 18 sayısı avarage case kapsamındadır.
 
-### 5.[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+### 5. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 - [3,7,5,8,2,9,4,15,6]
 - [3,5,7,8,2,9,4,15,6]
