@@ -12,7 +12,7 @@ namespace pratikler
             Console.WriteLine("Soyadınızı Giriniz.");
             string soyad = Console.ReadLine();
             Console.WriteLine("Merhaba"+ad+" "+soyad);
-
+            Console.Read();
         }
     }
 }
