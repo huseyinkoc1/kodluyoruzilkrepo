@@ -1,0 +1,16 @@
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\bin\Debug\net5.0\pratikler.exe
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\bin\Debug\net5.0\pratikler.deps.json
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\bin\Debug\net5.0\pratikler.runtimeconfig.json
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\bin\Debug\net5.0\pratikler.runtimeconfig.dev.json
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\bin\Debug\net5.0\pratikler.dll
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\bin\Debug\net5.0\ref\pratikler.dll
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\bin\Debug\net5.0\pratikler.pdb
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\obj\Debug\net5.0\pratikler.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\obj\Debug\net5.0\pratikler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\obj\Debug\net5.0\pratikler.AssemblyInfoInputs.cache
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\obj\Debug\net5.0\pratikler.AssemblyInfo.cs
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\obj\Debug\net5.0\pratikler.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\obj\Debug\net5.0\pratikler.dll
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\obj\Debug\net5.0\ref\pratikler.dll
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\obj\Debug\net5.0\pratikler.pdb
+C:\Users\Hüseyin\Documents\GitHub\kodluyoruzilkrepos\C#101\pratikler\obj\Debug\net5.0\pratikler.genruntimeconfig.cache
