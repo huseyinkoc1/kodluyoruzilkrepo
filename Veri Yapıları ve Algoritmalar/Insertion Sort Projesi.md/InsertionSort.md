@@ -2,7 +2,7 @@
 
 ## Proje 1
 ## <span style="color:red">[22,27,16,2,18,6]</span> -> Insertion Sort
-
+<span style="color:red">[22,27,16,2,18,6]</span>
 
 ### 1.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
