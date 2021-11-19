@@ -1,15 +1,14 @@
-# Insertion Sort Projesi
+# Merge Sort Projesi
 
-## Proje 1
-## [22,27,16,2,18,6] -> Insertion Sort
+## Proje 2
+## [16,21,11,8,12,22] -> Merge Sort
 
 
-### 1.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+### 1.Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
--  [16,22,27,2,18,6]
--  [2,16,22,27,18,6]
--  [2,16,18,22,27,6]
--  [2,6,16,18,22,27]
+-               [16,21,11]       [8,12,22]
+
+
 
 ### 2.Big-O gösterimini yazınız.
 
