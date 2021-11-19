@@ -13,12 +13,12 @@
 
 ### 2.Big-O gösterimini yazınız.
 
-- O(n^2)
+- O(n<sup>2</sup>)
 
 ### 3.Time Complexity:
 
-- Worst Case = n^2
-- Average Case = n^2
+- Worst Case = n<sup>2</sup>
+- Average Case = n<sup>2</sup>
 - Best Case = n
 
 ### 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
