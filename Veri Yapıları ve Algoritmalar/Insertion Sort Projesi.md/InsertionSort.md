@@ -1,8 +1,9 @@
+<p>
 # Insertion Sort Projesi
 
 ## Proje 1
 ## <span style="color:red">[22,27,16,2,18,6]</span> -> Insertion Sort
-<span style="color:blue">some *blue* text</span>.
+Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.
 
 ### 1.Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
@@ -32,3 +33,4 @@
 - [2,3,5,7,8,9,4,15,6]
 - [2,3,4,5,7,8,9,15,6]
 
+</p>
